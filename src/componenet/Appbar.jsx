@@ -22,12 +22,12 @@ export default function AppAppBar() {
       <Grid item size={{ xs: 6, md: 3 }} className="animate__animated animate__slideInRight">
         <div className='contact'>
         <WhatsAppIcon style={{ color: "green", fontSize: 24 }} />
-        <span>+01 8456765678</span>
+        <span>+39 348 389 3035</span>
       </div>
 
       <div className='contact'>
         <PhoneAndroidIcon style={{ color: "blue", fontSize: 24 }} />
-        <span>+91 9456765638</span>
+        <span>+39 348 389 3035</span>
       </div>
 
       <div className='contact'>
