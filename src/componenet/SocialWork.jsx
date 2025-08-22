@@ -4,12 +4,13 @@ import img from '../assets/banner6.jpg'
 
 const SocialWork = () => {
   return (
-    <Container sx={{mt:3}} className='animate__animated animate__slideInRight'>    
+    <Container sx={{mt:3}} >    
     <Card style={{    borderBottom: "4px solid #0074ba"}}>
       <CardMedia
         sx={{ height: 350 }}
         image={img}
         title="green iguana"
+        className='animate__animated animate__slideInRight'
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">

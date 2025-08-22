@@ -4,8 +4,8 @@ import img from '../assets/banner5.jpg'
 
 const FirstWaterFilter = () => {
   return (
-    <Container sx={{mt:3}} className='animate__animated animate__slideInRight'>    
-    <Card style={{    borderBottom: "4px solid #0074ba"}}>
+    <Container sx={{mt:3}} >    
+    <Card style={{    borderBottom: "4px solid #0074ba"}} className='animate__animated animate__slideInRight'>
       <CardMedia
         sx={{ height: 350 }}
         image={img}
