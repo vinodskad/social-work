@@ -1,6 +1,5 @@
 import React from 'react'
-import MediaCard from './Card'
-import { Card, CardContent, CardMedia, Container, Grid, Typography } from '@mui/material'
+import { Card, CardContent, CardMedia, Container,  Typography } from '@mui/material'
 import img from '../assets/banner6.jpg'
 
 const SocialWork = () => {

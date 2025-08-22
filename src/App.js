@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import AppAppBar from './componenet/Appbar';
 import SliderComponent from './componenet/Slider';

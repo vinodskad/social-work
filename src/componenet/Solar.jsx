@@ -1,5 +1,4 @@
 import React from 'react'
-import MediaCard from './Card'
 import { Card, Container, Grid } from '@mui/material'
 import AlignItemsList from './List'
 import solarData from '../data/solar'
