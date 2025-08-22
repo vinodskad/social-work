@@ -1,0 +1,25 @@
+const solarData = {complete:[
+    { village: 'दाभे मोहन', avtar:"D", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "", color:"success.light" },
+    { village: 'रुळे', avtar:"R", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "" , color:"success.light" },
+    { village: 'गावडोशी', avtar:"G", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "" , color:"success.light" },
+    { village: 'कुमठे',avtar:"K", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "" , color:"success.light" },
+    { village: 'हातलोट', avtar:"H", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "" , color:"success.light" },
+    { village: 'सोनाट', avtar:"S", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "" , color:"success.light" },
+    { village: 'खरोशी', avtar:"K", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "" , color:"success.light" },
+    { village: 'कासरूड', avtar:"K", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "" , color:"success.light" },
+    { village: 'हरोशी', avtar:"H", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "" , color:"success.light" },
+    { village: 'आचली', avtar:"A", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "" , color:"success.light" },
+    { village: 'सोंडपार', avtar:"S", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "" , color:"success.light" },
+    { village: 'रेनोशी', avtar:"R", heading: "गावांमध्ये आधुनिक सौर पथदिव्यांचे वाटप करण्यात आले आहे", images: [], description: "" , color:"success.light" },
+],
+process:[
+    { village: 'घोडेपारूट', avtar:"G", heading: "आधुनिक सौर पथदिव्यांसाठी पात्र ठरले आहे", images: [], description: "", color:'orange' },
+    { village: 'वाडा कुंभरोशी', avtar:"V", heading: "आधुनिक सौर पथदिव्यांसाठी पात्र ठरले आहे", images: [], description: "" ,color:'orange'},
+    { village: 'देवळी', avtar:"D", heading: "आधुनिक सौर पथदिव्यांसाठी पात्र ठरले आहे", images: [], description: "" ,color:'orange'},
+    { village: 'वानवली आहिरे',avtar:"A", heading: "आधुनिक सौर पथदिव्यांसाठी पात्र ठरले आहे", images: [], description: "",color:'orange' },
+    { village: 'गोगवे', avtar:"G", heading: "आधुनिक सौर पथदिव्यांसाठी पात्र ठरले आहे", images: [], description: "",color:'orange' },
+    { village: 'चतुरबेट', avtar:"C", heading: "आधुनिक सौर पथदिव्यांसाठी पात्र ठरले आहे", images: [], description: "",color:'orange' },
+    { village: 'वाळणे', avtar:"V", heading: "आधुनिक सौर पथदिव्यांसाठी पात्र ठरले आहे", images: [], description: "" ,color:'orange'},
+    { village: 'बिरवाडी', avtar:"B", heading: "आधुनिक सौर पथदिव्यांसाठी पात्र ठरले आहे", images: [], description: "",color:'orange' },
+]}
+export default solarData;
