@@ -10,7 +10,7 @@ const SliderComponent = ({data}) => {
     infinite: true,
     autoplay: true,
     autoplaySpeed: 4000,
-    speed: 800,
+    speed: 400,
     slidesToShow: 1,
     slidesToScroll: 1,
     arrows: false,
