@@ -1,5 +1,5 @@
 import * as React from 'react';
-import Logo from './../assets/logo3.png'
+import Logo from './../assets/logo02.png'
 import { Grid } from '@mui/material';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import PhoneAndroidIcon from '@mui/icons-material/PhoneAndroid';
@@ -14,7 +14,7 @@ export default function AppAppBar() {
 
   return (
     <div style={{ backgroundColor: "#fff", boxShadow: "0 2px 8px rgba(0,0,0,0.1)",
-  padding: "10px 20px",zIndex: 1000}}>
+  padding: "10px 20px", paddingBottom:'0px', zIndex: 1000}}>
     <Grid container spacing={2}>
       <Grid className="animate__animated animate__slideInLeft" item size={{ xs: 6, md: 9 }}>
         <img src={Logo} className='logo' alt="Chandan Dada Chavan"/>

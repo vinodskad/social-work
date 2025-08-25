@@ -4,13 +4,13 @@ import { Box } from '@mui/material';
 
 
 
-const SliderComponent = ({data}) => {
+const SliderComponent = ({data, autoplaySpeed,speed}) => {
   const settings = {
     dots: true,
     infinite: true,
     autoplay: true,
-    autoplaySpeed: 4000,
-    speed: 400,
+    autoplaySpeed: autoplaySpeed,
+    speed: speed,
     slidesToShow: 1,
     slidesToScroll: 1,
     arrows: false,

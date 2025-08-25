@@ -21,7 +21,7 @@ function App() {
   return (
     <>
     <AppAppBar/>
-    <SliderComponent data={images}/>
+    <SliderComponent data={images} autoplaySpeed={4000} speed={400}/>
     <WaterFilter/>
     <Solar/>
     <FirstWaterFilter/>

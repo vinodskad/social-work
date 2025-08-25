@@ -7,13 +7,13 @@ body {
   margin: 0;
 }
 .logo{
- width: 300px;
+ width: 175px;
 }
 .contact{
   display: flex; 
   align-items:center;
   gap: 10px;
-  margin-bottom:3px
+  margin-bottom:15px
 }
 @media (max-width: 768px) {
   .logo {
@@ -21,7 +21,7 @@ body {
   }
   .contact{
   gap: 5px;
-  margin-bottom:2px;
+  margin-bottom:15px;
   font-size: 12px;
 }
 }

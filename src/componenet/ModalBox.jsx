@@ -40,7 +40,7 @@ console.log(data,"data")
             ref={descriptionElementRef}
             tabIndex={-1}
           >
-           <SliderComponent data={data.images}/>
+           <SliderComponent data={data.images}  autoplaySpeed={2000} speed={400}/>
            <p>{data.description}</p>
           </DialogContentText>
         </DialogContent>
